@@ -12,7 +12,11 @@
 * Пример результата работы приложения, если файл будет содержать строку "Hello!":
 
 fileName: input.txt
+
 rowsCount: 1
+
 totalSymbols: 6
-symbolsStatistics: {'H': 1, 'e': 1, 'l': 2, 'o': 1}
-top3PopularSymbols: 'l', 'H', 'e'
+
+symbolsStatistics: {e=1, H=1, l=2, o=1}
+
+top3PopularSymbols: [l, o, e]
