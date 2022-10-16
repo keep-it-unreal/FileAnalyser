@@ -1,0 +1,9 @@
+While XML files can be imported individually via the user interface (see: Import XML), it may be desireable to import multiple XML files through the command line. The import:bulk command-line task can be used to import the following types of XML data:
+
+MODS and EAD 2002 (for archival description data)
+SKOS RDF XML (for term data import into a taxonomy)
+EAC-CPF XML (for authority record data)
+The primary documentation on preparing for XML imports, and on how matching behavior is handled for some of the import options, is maintained in the User Manual. See:
+
+Import XML
+Import and export terms with SKOS

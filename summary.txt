@@ -1,0 +1,5 @@
+fileName: Everything.txt
+rowsCount: 1
+totalSymbols: 43
+symbolsStatistics: {a=5, q=12, b=4, c=3, g=3, h=1, j=1, k=12, l=2}
+top3PopularSymbols: [q, k, a]
